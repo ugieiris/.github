@@ -1,7 +1,8 @@
 ## 📝 Description
-
+...
 ## ✅ Critères de validation
-
+...
 ## 🔗 Liens/Tickets
-
+...
+____
 _Si vous souhaitez personnaliser le template, vous pouvez en déclarer un dans votre dépôt à cet emplacement : .github/pull_request_template.md_
